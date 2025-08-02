@@ -4,14 +4,14 @@ This project is a flexible, educational solver for (variations over) the Tower o
 
 In this particular experiment, **100% of the codebase and documentation** (including this README) were generated through iterative dialogue between the human programmer and the AI agents, with no code or text written directly by the human. All interactions took place within [Cursor](https://cursor.sh/), providing a seamless environment for human-AI collaborative programming.
 
-For more information about this vibe coding experiment, please check the article ["Vibe Coding as a Coding Veteran"](), on Medium (also available as a [GitHub page]()).
-**Note**: the above mentioned article is the only piece of text written by the human programmer, not by the AI.
+For more information about this vibe coding experiment, please check the article ["Vibe Coding as a Coding Veteran"](https://medium.com/@maxbene/vibe-coding-as-a-coding-veteran-cd370fe2be50), on Medium.
+**Note**: The above mentioned article is the only piece of text written by the human programmer, not by the AI.
 
 As supplementary reading material, this repository also contains the following (AI-generated) content:
 - **[vibe_coding.md](./docs/vibe_coding.md)** - Development goals and methodology, analysis of the collaborative process, observations on bias and features of the AI-generated code, and conclusions on productivity gains;
-- **[TLDR.md](./docs/TLDR.md)** - A short summary of the findings from the main human-written ["Vibe Coding as a Coding Veteran"]() piece;
+- **[TLDR.md](./docs/TLDR.md)** - A short summary of the findings from the main human-written ["Vibe Coding as a Coding Veteran"](https://medium.com/@maxbene/vibe-coding-as-a-coding-veteran-cd370fe2be50) piece;
 - **[sample_exchanges.md](./docs/sample_exchanges.md)** - A few examples of short Human/AI interactions that happened during the development process;
-- **[sample_chats](./docs/sample_chats/)** - Ten longer snippets of human/AI dialogues in "raw" format.
+- **[sample_chats](./docs/sample_chats/)** - Ten longer snippets of Human/AI dialogues in "raw" Cursor format.
 
 
 ## Overview

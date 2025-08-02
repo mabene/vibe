@@ -1,6 +1,6 @@
 # 'Vibe Coding as a Coding Veteran' - TLDR
 
-The following is an AI-generated summary of the main insights from the experiment, based on the detailed human-written analysis [available here]():
+The following is an AI-generated summary of the main insights from the experiment, based on the detailed human-written analysis [available here](https://medium.com/@maxbene/vibe-coding-as-a-coding-veteran-cd370fe2be50):
 
 • AI coding assistants demonstrate **superhuman command** of programming languages with real but nuanced productivity gains: while specific tasks like documentation, boilerplate code, or unit tests see **10-100X speedups**, overall productivity roughly **doubles** when accounting for the critical time needed to review and correct AI output.
 
