@@ -1,5 +1,7 @@
 # Tower of Hanoi Solver: A Human-AI Collaboration Experiment
 
+![A robot about to insert an old floppy into a old PC, with a Tower of Hanoi intermedite state on screen - illustration by ChatGPT 4o](images/VC_illustration.jpg)
+
 This project is a flexible, educational solver for (variations over) the Tower of Hanoi puzzle. It is a small scale (~5k LOC, ~50 files, ~20 classes) project developed as an experiment in "**vibe coding**," a novel software development paradigm where a human programmer ([me](https://www.linkedin.com/in/marco-benedetti-art), in this case) collaborates with AI assistants (specifically [Claude Sonnet 4](https://claude.ai/) and [Gemini 2.5 Pro](https://gemini.google.com/)) to produce code and documentation.
 
 In this particular experiment, **100% of the codebase and documentation** (including this README) were generated through iterative dialogue between the human programmer and the AI agents, with no code or text written directly by the human. All interactions took place within [Cursor](https://cursor.sh/), providing a seamless environment for human-AI collaborative programming.
